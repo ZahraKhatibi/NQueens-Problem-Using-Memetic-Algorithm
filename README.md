@@ -1,6 +1,6 @@
 # NQueens-Problem-Using-Memetic-Algorithm
 
-![](pic.png)
+<img src="pic.png" alt="Image Description" width="700"/>
 
 ## Introduction
 
