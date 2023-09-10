@@ -1,5 +1,7 @@
 # NQueens-Problem-Using-Memetic-Algorithm
 
+![](pic.png)
+
 ## Introduction
 
 The N Queens puzzle is a classic problem in combinatorial optimization. It involves placing N chess queens on an N×N chessboard in such a way that no two queens threaten each other. This means that no two queens should share the same row, column, or diagonal. This project implements a Memetic Algorithm in Python to find a valid placement of N queens on the chessboard.
