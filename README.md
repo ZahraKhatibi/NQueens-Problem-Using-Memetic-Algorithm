@@ -1,4 +1,4 @@
-# NQueens-Problem-Using-Memetic-Algorithm
+# NQueens Problem Using Memetic Algorithm
 
 <img src="pic.png" alt="Image Description" width="700"/>
 
